@@ -99,7 +99,8 @@ def main():
 
     # Write HTML output
     template = template.replace('%TOTAL%', str(full_data['stats']['total']))
-    template = template.replace('%IGNORED%', str(full_data['stats']['ignored']))
+    template = template.replace(
+        '%IGNORED%', str(full_data['stats']['ignored']))
     template = template.replace('%MULTI%', '\n'.join(multi_content))
     template = template.replace('%TABLEBODY%', '\n'.join(tbl_content))
     file_name = os.path.join(
