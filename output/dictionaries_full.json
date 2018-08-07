@@ -1,0 +1,760 @@
+{
+  "list": {
+    "af": [
+      {
+        "guid": "af-ZA@dictionaries.addons.mozilla.org",
+        "locale": "af",
+        "name": "Afrikaans spell checker",
+        "url": "https://addons.mozilla.org/firefox/addon/afrikaans-spell-checker/"
+      }
+    ],
+    "an": [
+      {
+        "guid": "an-ES@dictionaries.addons.mozilla.org",
+        "locale": "an",
+        "name": "Corrector ortografico aragon\u00e9s",
+        "url": "https://addons.mozilla.org/firefox/addon/corrector-ortografico-aragones/"
+      }
+    ],
+    "ar": [
+      {
+        "guid": "ar@dictionaries.addons.mozilla.org",
+        "locale": "ar",
+        "name": "Arabic spell-checking dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/arabic-spell-checking-dictiona/"
+      }
+    ],
+    "as": [
+      {
+        "guid": "as-IN@dictionaries.addons.mozilla.org",
+        "locale": "as",
+        "name": "Lachit - an Assamese Spell Checker",
+        "url": "https://addons.mozilla.org/firefox/addon/assamese-spell-checker/"
+      }
+    ],
+    "ast": [
+      {
+        "guid": "asturianu@dictionaries.addons.mozilla.org",
+        "locale": "ast",
+        "name": "Correutor ortogr\u00e1ficu d'asturianu",
+        "url": "https://addons.mozilla.org/firefox/addon/correutor_asturianu/"
+      }
+    ],
+    "az": [
+      {
+        "guid": "az-IR@dellalibera.sf.net",
+        "locale": "az-IR",
+        "name": "Azerbaijani Spell Checker",
+        "url": "https://addons.mozilla.org/firefox/addon/azerbaijani-spell-checker/"
+      }
+    ],
+    "be": [
+      {
+        "guid": "be@dictionaries.addons.mozilla.org",
+        "locale": "be",
+        "name": "Belarusian Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/belarusian-dictionary/"
+      },
+      {
+        "guid": "be-classic@dictionaries.addons.mozilla.org",
+        "locale": "be",
+        "name": "Belarusian Classic Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/belarusian-classic-dictionary/"
+      }
+    ],
+    "bg": [
+      {
+        "guid": "bg-BG@dictionaries.addons.mozilla.org",
+        "locale": "bg",
+        "name": "Bulgarian Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/bulgarian-dictionary/"
+      }
+    ],
+    "bn-BD": [
+      {
+        "guid": "bn-BD@dictionaries.addons.mozilla.org",
+        "locale": "bn-BD",
+        "name": "Bengali (Bangladesh) Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/bengali-bangladesh-dictionary/"
+      }
+    ],
+    "br": [
+      {
+        "guid": "br@dictionaries.addons.mozilla.org",
+        "locale": "br",
+        "name": "Difazier An Drouizig",
+        "url": "https://addons.mozilla.org/firefox/addon/difazier-an-drouizig/"
+      }
+    ],
+    "ca": [
+      {
+        "guid": "ca@dictionaries.addons.mozilla.org",
+        "locale": "ca",
+        "name": "General Catalan dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/general-catalan-dictionary/"
+      },
+      {
+        "guid": "roa-ES-val@dictionaries.addons.mozilla.org",
+        "locale": "ca-valencia",
+        "name": "Valencian Spellchecker",
+        "url": "https://addons.mozilla.org/firefox/addon/valencian-spellchecker/"
+      },
+      {
+        "guid": "ca-valencia@dictionaries.addons.mozilla.org",
+        "locale": "ca-valencia",
+        "name": "Valencian Catalan dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/valencian-catalan-dictionary/"
+      }
+    ],
+    "cs": [
+      {
+        "guid": "cs@dictionaries.addons.mozilla.org",
+        "locale": "cs",
+        "name": "\u010cesk\u00fd slovn\u00edk pro kontrolu pravopisu",
+        "url": "https://addons.mozilla.org/firefox/addon/czech-spell-checking-dictionar/"
+      },
+      {
+        "guid": "cs2@dictionaries.addons.mozilla.org",
+        "locale": "cs",
+        "name": "\u010cesk\u00fd slovn\u00edk kontroly pravopisu (bez diakritiky)",
+        "url": "https://addons.mozilla.org/firefox/addon/czech-spell-checking-without-d/"
+      }
+    ],
+    "cy": [
+      {
+        "guid": "cy-GB-1@dictionaries.addons.mozilla.org",
+        "locale": "cy",
+        "name": "Geiriadur Cymraeg",
+        "url": "https://addons.mozilla.org/firefox/addon/geiriadur-cymraeg/"
+      }
+    ],
+    "da": [
+      {
+        "guid": "danish@dictionaries.addons.mozilla.org",
+        "locale": "da",
+        "name": "Danish Dictionary for the Spell Checker",
+        "url": "https://addons.mozilla.org/firefox/addon/dansk-ordbog/"
+      }
+    ],
+    "de": [
+      {
+        "guid": "de-CH@dictionaries.addons.mozilla.org",
+        "locale": "de-CH",
+        "name": "German Dictionary (Switzerland)",
+        "url": "https://addons.mozilla.org/firefox/addon/german-dictionary-switzerland/"
+      },
+      {
+        "guid": "de-DE@dictionaries.addons.mozilla.org",
+        "locale": "de-DE",
+        "name": "German Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/german-dictionary/"
+      },
+      {
+        "guid": "de-AT@dictionaries.addons.mozilla.org",
+        "locale": "de-AT",
+        "name": "German Dictionary, extended for Austria",
+        "url": "https://addons.mozilla.org/firefox/addon/german-dictionary-extended-for/"
+      },
+      {
+        "guid": "de_AT@dicts.j3e.de",
+        "locale": "de-AT",
+        "name": "German  dictionary (de_AT)",
+        "url": "https://addons.mozilla.org/firefox/addon/german-dictionary-de_at-for-sp/"
+      },
+      {
+        "guid": "de_CH@dicts.j3e.de",
+        "locale": "de-CH",
+        "name": "German  dictionary (de_CH)",
+        "url": "https://addons.mozilla.org/firefox/addon/german-dictionary-de_ch-for-sp/"
+      },
+      {
+        "guid": "de_DE@dicts.j3e.de",
+        "locale": "de-DE",
+        "name": "German  dictionary (de_DE)",
+        "url": "https://addons.mozilla.org/firefox/addon/german-dictionary-de_de-for-sp/"
+      },
+      {
+        "guid": "alterechtschreibung@googlemail.com",
+        "locale": "de-DE",
+        "name": "German Dictionary, classical spelling standards",
+        "url": "https://addons.mozilla.org/firefox/addon/deutsch-alte-rechtschreibung/"
+      }
+    ],
+    "dsb": [
+      {
+        "guid": "dsb@dictionaries.addons.mozilla.org",
+        "locale": "dsb",
+        "name": "Lower Sorbian dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/dsb-spell/"
+      }
+    ],
+    "el": [
+      {
+        "guid": "el-GR@dictionaries.addons.mozilla.org",
+        "locale": "el",
+        "name": "Greek spellchecking dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/greek-spellchecking-dictionary/"
+      },
+      {
+        "guid": "el-en@dictionaries.addons.mozilla.org",
+        "locale": "el-en",
+        "name": "English - Greek Spelling dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/english-greek-spelling-diction/"
+      }
+    ],
+    "en-CA": [
+      {
+        "guid": "en-CA@dictionaries.addons.mozilla.org",
+        "locale": "en-CA",
+        "name": "Canadian English Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/canadian-english-dictionary/"
+      }
+    ],
+    "en-GB": [
+      {
+        "guid": "marcoagpinto@mail.telepac.pt",
+        "locale": "en-GB",
+        "name": "British English Dictionary (Marco Pinto)",
+        "url": "https://addons.mozilla.org/firefox/addon/british-english-dictionary-2/"
+      }
+    ],
+    "eo": [
+      {
+        "guid": "eo-EO@dictionaries.addons.mozilla.org",
+        "locale": "eo",
+        "name": "Esperanta Vortaro",
+        "url": "https://addons.mozilla.org/firefox/addon/esperanta-vortaro/"
+      }
+    ],
+    "es-AR": [
+      {
+        "guid": "es-AR@dictionaries.addons.mozilla.org",
+        "locale": "es-AR",
+        "name": "Diccionario espa\u00f1ol Argentina",
+        "url": "https://addons.mozilla.org/firefox/addon/diccionario-espa%C3%B1ol-argentina/"
+      }
+    ],
+    "es-CL": [
+      {
+        "guid": "es_cl@dictionaries.addons.mozilla.org",
+        "locale": "es-CL",
+        "name": "Diccionario de Espa\u00f1ol/Chile",
+        "url": "https://addons.mozilla.org/firefox/addon/diccionario-de-espa%C3%B1ol-chile/"
+      }
+    ],
+    "es-ES": [
+      {
+        "guid": "es-es@dictionaries.addons.mozilla.org",
+        "locale": "es-ES",
+        "name": "Spanish (Spain) Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/spanish-spain-dictionary/"
+      }
+    ],
+    "es-MX": [
+      {
+        "guid": "es-MX@dictionaries.addons.mozilla.org",
+        "locale": "es-MX",
+        "name": "Diccionario espa\u00f1ol M\u00e9xico",
+        "url": "https://addons.mozilla.org/firefox/addon/diccionario-espa%C3%B1ol-m%C3%A9xico/"
+      },
+      {
+        "guid": "diccionario@mozilla-mexico.org",
+        "locale": "es-MX",
+        "name": "Spanish (Mexico) Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/spanish-mexico-dictionary/"
+      }
+    ],
+    "et": [
+      {
+        "guid": "et-EE@dictionaries.addons.mozilla.org",
+        "locale": "et",
+        "name": "Eesti keele speller",
+        "url": "https://addons.mozilla.org/firefox/addon/eesti-keele-speller/"
+      }
+    ],
+    "eu": [
+      {
+        "guid": "eu@dictionaries.addons.mozilla.org",
+        "locale": "eu",
+        "name": "Xuxen",
+        "url": "https://addons.mozilla.org/firefox/addon/xuxen/"
+      }
+    ],
+    "fa": [
+      {
+        "guid": "fa@dictionaries.addons.mozilla.org",
+        "locale": "fa",
+        "name": "Persian Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/persian-dictionary/"
+      },
+      {
+        "guid": "fa-IR@dictionaries.addons.mozilla.org",
+        "locale": "fa-IR",
+        "name": "Lilak, Persian Spell Checker Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/lilak-persian-dictionary/"
+      }
+    ],
+    "fr": [
+      {
+        "guid": "fr-dicollecte@dictionaries.addons.mozilla.org",
+        "locale": "fr",
+        "name": "French spelling dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/dictionnaire-fran%C3%A7ais1/"
+      }
+    ],
+    "fy-NL": [
+      {
+        "guid": "fy@dictionaries.addons.mozilla.org",
+        "locale": "fy-NL",
+        "name": "Frisian Words list",
+        "url": "https://addons.mozilla.org/firefox/addon/dictionnaire-frison/"
+      }
+    ],
+    "ga-IE": [
+      {
+        "guid": "ga-IE@dictionaries.addons.mozilla.org",
+        "locale": "ga-IE",
+        "name": "Litreoir GaelSpell do Mhozilla",
+        "url": "https://addons.mozilla.org/firefox/addon/litreoir-gaelspell-do-mhozilla/"
+      }
+    ],
+    "gd": [
+      {
+        "guid": "gd-GB@dictionaries.addons.mozilla.org",
+        "locale": "gd",
+        "name": "Scottish Gaelic spell checker",
+        "url": "https://addons.mozilla.org/firefox/addon/scottish-gaelic-spell-checker/"
+      }
+    ],
+    "gl": [
+      {
+        "guid": "gl-es@dictionaries.addons.mozilla.org",
+        "locale": "gl",
+        "name": "Corrector de Galego",
+        "url": "https://addons.mozilla.org/firefox/addon/corrector-de-galego/"
+      }
+    ],
+    "gu-IN": [
+      {
+        "guid": "gu-IN@dellalibera.sf.net",
+        "locale": "gu-IN",
+        "name": "Gujarati Spell Checker (India)",
+        "url": "https://addons.mozilla.org/firefox/addon/gujarati-spell-checker-india/"
+      }
+    ],
+    "he": [
+      {
+        "guid": "he@dictionaries.addons.mozilla.org",
+        "locale": "he",
+        "name": "Hebrew spell-checking dictionary (from HSpell)",
+        "url": "https://addons.mozilla.org/firefox/addon/hebrew-spell-checking-dictiona/"
+      }
+    ],
+    "hi-IN": [
+      {
+        "guid": "hi-IN@dellalibera.sf.net",
+        "locale": "hi-IN",
+        "name": "Hindi Spell Checker",
+        "url": "https://addons.mozilla.org/firefox/addon/hindi-spell-checker/"
+      }
+    ],
+    "hr": [
+      {
+        "guid": "hr-HR-2@dictionaries.addons.mozilla.org",
+        "locale": "hr",
+        "name": "Croatian Dictionary (Hrvatski Rje\u010dnik)",
+        "url": "https://addons.mozilla.org/firefox/addon/croatian-dictionary/"
+      }
+    ],
+    "hsb": [
+      {
+        "guid": "hsb@dictionaries.addons.mozilla.org",
+        "locale": "hsb",
+        "name": "Upper Sorbian spelling dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/upper-sorbian-spelling-diction/"
+      }
+    ],
+    "hu": [
+      {
+        "guid": "hu@dictionaries.addons.mozilla.org",
+        "locale": "hu",
+        "name": "Hungarian Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/hungarian-dictionary/"
+      }
+    ],
+    "hy-AM": [
+      {
+        "guid": "am@dictionaries.addons.mozilla.org",
+        "locale": "hy-AM",
+        "name": "Armenian spell checker dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/armenian-spell-checker-diction/"
+      }
+    ],
+    "ia": [
+      {
+        "guid": "ia-xx@dictionaries.addons.mozilla.org",
+        "locale": "ia-ia",
+        "name": "Corrector orthographic de interlingua",
+        "url": "https://addons.mozilla.org/firefox/addon/corrector_orthographic/"
+      }
+    ],
+    "id": [
+      {
+        "guid": "id@ewesewes.net",
+        "locale": "id",
+        "name": "Kamus Pengecek Ejaan Bahasa Indonesia",
+        "url": "https://addons.mozilla.org/firefox/addon/kamus-pengecek-ejaan-bahasa-in/"
+      }
+    ],
+    "is": [
+      {
+        "guid": "is@dictionaries.addons.mozilla.org",
+        "locale": "is",
+        "name": "Icelandic Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/icelandic-dictionary/"
+      }
+    ],
+    "it": [
+      {
+        "guid": "it-IT@dictionaries.addons.mozilla.org",
+        "locale": "it",
+        "name": "Dizionario italiano",
+        "url": "https://addons.mozilla.org/firefox/addon/dizionario-italiano/"
+      }
+    ],
+    "ka": [
+      {
+        "guid": "ka-GE@dictionaries.addons.mozilla.org",
+        "locale": "ka",
+        "name": "Georgian Spell Checking Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/georgian-dictionary/"
+      }
+    ],
+    "kn": [
+      {
+        "guid": "kn@dictionaries.addons.mozilla.org",
+        "locale": "kn",
+        "name": "Kannada Spell Checker",
+        "url": "https://addons.mozilla.org/firefox/addon/kannada-spell-checker/"
+      }
+    ],
+    "ko": [
+      {
+        "guid": "ko-KR@dictionaries.addons.mozilla.org",
+        "locale": "ko",
+        "name": "Korean spellchecker",
+        "url": "https://addons.mozilla.org/firefox/addon/korean-spellchecker/"
+      }
+    ],
+    "lo": [
+      {
+        "guid": "lo@dictionaries.addons.mozilla.org",
+        "locale": "lo",
+        "name": "Lao Spellchecking Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/lao-spellchecking-dictionar/"
+      }
+    ],
+    "lt": [
+      {
+        "guid": "lt@dictionaries.addons.mozilla.org",
+        "locale": "lt",
+        "name": "Lithuanian spelling check dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/lithuanian-spellcheck/"
+      }
+    ],
+    "lv": [
+      {
+        "guid": "lv-LV@dictionaries.addons.mozilla.org",
+        "locale": "lv",
+        "name": "Latvie\u0161u valodas pareizrakst\u012bbas p\u0101rbaudes v\u0101rdn\u012bca",
+        "url": "https://addons.mozilla.org/firefox/addon/latvie%C5%A1u-valodas-pareizrakst%C4%ABb/"
+      }
+    ],
+    "mk": [
+      {
+        "guid": "mk-MK@dictionaries.addons.mozilla.org",
+        "locale": "mk",
+        "name": "Macedonian (\u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0441\u043a\u0438 mk-MK) Spellchecker",
+        "url": "https://addons.mozilla.org/firefox/addon/macedonian-makedonski-mk-mk/"
+      }
+    ],
+    "mr": [
+      {
+        "guid": "mr-IN@dictionaries.addons.mozilla.org",
+        "locale": "mr",
+        "name": "Marathi Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/marathi-dictionary/"
+      }
+    ],
+    "ms": [
+      {
+        "guid": "MyEja@xanda.org",
+        "locale": "ms",
+        "name": "MyEja",
+        "url": "https://addons.mozilla.org/firefox/addon/myeja/"
+      }
+    ],
+    "nb-NO": [
+      {
+        "guid": "nb-NO@dictionaries.addons.mozilla.org",
+        "locale": "nb-NO",
+        "name": "Norsk bokm\u00e5l ordliste",
+        "url": "https://addons.mozilla.org/firefox/addon/norsk-bokm%C3%A5l-ordliste/"
+      }
+    ],
+    "ne-NP": [
+      {
+        "guid": "ne-NP@dictionaries.addons.mozilla.org",
+        "locale": "ne-NP",
+        "name": "Nepali Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/nepali-dictionary/"
+      }
+    ],
+    "nl": [
+      {
+        "guid": "nl-NL@dictionaries.addons.mozilla.org",
+        "locale": "nl",
+        "name": "Woordenboek Nederlands",
+        "url": "https://addons.mozilla.org/firefox/addon/woordenboek-nederlands/"
+      }
+    ],
+    "nn-NO": [
+      {
+        "guid": "nn-NO@dictionaries.addons.mozilla.org",
+        "locale": "nn-NO",
+        "name": "Norsk nynorsk ordliste",
+        "url": "https://addons.mozilla.org/firefox/addon/norsk-nynorsk-ordliste/"
+      }
+    ],
+    "oc": [
+      {
+        "guid": "oc-FR@dictionaries.addons.mozilla.org",
+        "locale": "oc",
+        "name": "Correcteur Occitan-Languedocien",
+        "url": "https://addons.mozilla.org/firefox/addon/correcteur-occitan-languedocie/"
+      }
+    ],
+    "or": [
+      {
+        "guid": "or_IN@dellalibera.sf.net",
+        "locale": "or",
+        "name": "Oriya Spell Checker",
+        "url": "https://addons.mozilla.org/firefox/addon/oriya-spell-checker/"
+      },
+      {
+        "guid": "or@sipun.org",
+        "locale": "or-IN",
+        "name": "Odia Spelling Checker",
+        "url": "https://addons.mozilla.org/firefox/addon/odia-spelling-checker/"
+      }
+    ],
+    "pa-IN": [
+      {
+        "guid": "pa_IN@dellalibera.sf.net",
+        "locale": "pa-IN",
+        "name": "Punjabi Spell Checker",
+        "url": "https://addons.mozilla.org/firefox/addon/punjabi-spell-checker/"
+      }
+    ],
+    "pl": [
+      {
+        "guid": "pl@dictionaries.addons.mozilla.org",
+        "locale": "pl",
+        "name": "Polish Spellchecker Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/polish-spellchecker-dictionary/"
+      }
+    ],
+    "pt-BR": [
+      {
+        "guid": "pt-BR@dictionaries.addons.mozilla.org",
+        "locale": "pt-BR",
+        "name": "Brazilian Portuguese Dictionary (New Spelling)",
+        "url": "https://addons.mozilla.org/firefox/addon/corretor/"
+      },
+      {
+        "guid": "pt-BR@dellalibera.sf.net",
+        "locale": "pt-BR",
+        "name": "Verificador Ortogr\u00e1fico para Portugu\u00eas do Brasil",
+        "url": "https://addons.mozilla.org/firefox/addon/verificador-ortogr%C3%A1fico-para-p/"
+      },
+      {
+        "guid": "pt-BR-1971@dictionaries.addons.mozilla.org",
+        "locale": "pt-BR",
+        "name": "Brazilian Portuguese Dictionary (Former Spelling)",
+        "url": "https://addons.mozilla.org/firefox/addon/ortografia-br/"
+      }
+    ],
+    "pt-PT": [
+      {
+        "guid": "pt-PT@dictionaries.addons.mozilla.org",
+        "locale": "pt-PT",
+        "name": "European Portuguese Spellchecker",
+        "url": "https://addons.mozilla.org/firefox/addon/european-portuguese-spellcheck/"
+      }
+    ],
+    "ro": [
+      {
+        "guid": "ro-RO@www.archeus.ro",
+        "locale": "ro",
+        "name": "Romanian spellchecking dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/romanian-spellchecking-diction/"
+      }
+    ],
+    "ru": [
+      {
+        "guid": "ru@dictionaries.addons.mozilla.org",
+        "locale": "ru",
+        "name": "Russian spellchecking dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/russian-spellchecking-dic-3703/"
+      },
+      {
+        "guid": "hunspell-ru@dictionaries.addons.mozilla.org",
+        "locale": "ru",
+        "name": "Russian Hunspell dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/russian-hunspell-dictionary/"
+      }
+    ],
+    "sk": [
+      {
+        "guid": "sk@dictionaries.addons.mozilla.org",
+        "locale": "sk-SK",
+        "name": "Slovak spell checking dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/slovak-spell-checking-dictiona/"
+      }
+    ],
+    "sl": [
+      {
+        "guid": "sl@dictionaries.addons.mozilla.org",
+        "locale": "sl",
+        "name": "Slovar za slovenski jezik",
+        "url": "https://addons.mozilla.org/firefox/addon/slovar-za-slovenski-jezik/"
+      }
+    ],
+    "son": [
+      {
+        "guid": "son-ML@dictionaries.addons.mozilla.org",
+        "locale": "son",
+        "name": "So\u014bay senni hantum tenjandikaw",
+        "url": "https://addons.mozilla.org/firefox/addon/so%C5%8Bay-senni-hantum-tenjandikaw/"
+      }
+    ],
+    "sq": [
+      {
+        "guid": "sq-AL@dictionaries.addons.mozilla.org",
+        "locale": "sq",
+        "name": "Albanian Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/albanian-dictionary/"
+      }
+    ],
+    "sr": [
+      {
+        "guid": "Srpski_latinica@dictionaries.addons.mozilla.org",
+        "locale": "sr",
+        "name": "Srpski",
+        "url": "https://addons.mozilla.org/firefox/addon/srpski/"
+      },
+      {
+        "guid": "sr-RS@dictionaries.addons.mozilla.org",
+        "locale": "sr",
+        "name": "\u0421\u0440\u043f\u0441\u043a\u0438 \u0440\u0435\u0447\u043d\u0438\u043a - Serbian Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/%D1%81%D1%80%D0%BF%D1%81%D0%BA%D0%B8-%D1%80%D0%B5%D1%87%D0%BD%D0%B8%D0%BA-serbian-dictiona/"
+      }
+    ],
+    "sv-SE": [
+      {
+        "guid": "swedish@dictionaries.addons.mozilla.org",
+        "locale": "sv-SE",
+        "name": "Swedish Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/g%C3%B6rans-hemmasnickrade-ordli/"
+      }
+    ],
+    "ta": [
+      {
+        "guid": "tamildic@ulagam.net",
+        "locale": "ta",
+        "name": "Tamil Spell Checker for Firefox",
+        "url": "https://addons.mozilla.org/firefox/addon/tamil-spell-checker-for-firefo/"
+      },
+      {
+        "guid": "mugunth@thamizha.com",
+        "locale": "ta-IN",
+        "name": "ThamiZha! Solthiruthi(Tamil spellchecker)",
+        "url": "https://addons.mozilla.org/firefox/addon/thamizha-solthiruthi/"
+      }
+    ],
+    "te": [
+      {
+        "guid": "indlinux-telugu@lists.sourceforge.net",
+        "locale": "te",
+        "name": "Telugu Spell Checker.",
+        "url": "https://addons.mozilla.org/firefox/addon/telugu-spell-checker/"
+      }
+    ],
+    "tr": [
+      {
+        "guid": "tr-fix@dictionaries.addons.mozilla.org",
+        "locale": "tr",
+        "name": "T\u00fcrk\u00e7e Yaz\u0131m Denetimi",
+        "url": "https://addons.mozilla.org/firefox/addon/turkce-yazim-denetimi/"
+      }
+    ],
+    "uk": [
+      {
+        "guid": "uk-ua@dictionaries.addons.mozilla.org",
+        "locale": "uk",
+        "name": "Ukrainian dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/ukrainian-dictionary/"
+      }
+    ],
+    "ur": [
+      {
+        "guid": "ur@dictionaries.addons.mozilla.org",
+        "locale": "ur",
+        "name": "Urdu Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/urdu-dictionary/"
+      }
+    ],
+    "uz": [
+      {
+        "guid": "uz@dellalibera.sf.net",
+        "locale": "uz",
+        "name": "Uzbek Spell Checker (Uzbekistan)",
+        "url": "https://addons.mozilla.org/firefox/addon/uzbek-spell-checker/"
+      }
+    ],
+    "vi": [
+      {
+        "guid": "dictionary@vi.mozdev.org",
+        "locale": "vi",
+        "name": "Vietnamese Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/vietnamese-dictionary/"
+      }
+    ],
+    "xh": [
+      {
+        "guid": "xh-ZA@dictionaries.addons.mozilla.org",
+        "locale": "xh",
+        "name": "Xhosa spell checker",
+        "url": "https://addons.mozilla.org/firefox/addon/xhosa-spell-checker/"
+      }
+    ]
+  },
+  "stats": {
+    "ignored": 38,
+    "multi": {
+      "be": 2,
+      "ca": 3,
+      "cs": 2,
+      "de": 7,
+      "el": 2,
+      "es-MX": 2,
+      "fa": 2,
+      "or": 2,
+      "pt-BR": 3,
+      "ru": 2,
+      "sr": 2,
+      "ta": 2
+    },
+    "total": 135
+  }
+}
