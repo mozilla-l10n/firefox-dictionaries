@@ -48,7 +48,7 @@ def main():
     # Write HTML output
     template = template.replace('%TABLEBODY%', '\n'.join(tbl_content))
     file_name = os.path.join(
-        script_folder, os.path.pardir, 'pages', 'index.html')
+        script_folder, os.path.pardir, 'docs', 'index.html')
     with open(file_name, 'w') as outputfile:
         outputfile.write(template)
 
@@ -104,7 +104,7 @@ def main():
     template = template.replace('%MULTI%', '\n'.join(multi_content))
     template = template.replace('%TABLEBODY%', '\n'.join(tbl_content))
     file_name = os.path.join(
-        script_folder, os.path.pardir, 'pages', 'complete.html')
+        script_folder, os.path.pardir, 'docs', 'complete.html')
     with open(file_name, 'w') as outputfile:
         outputfile.write(template)
 
