@@ -218,6 +218,14 @@
         "url": "https://addons.mozilla.org/firefox/addon/british-english-dictionary-2/"
       }
     ],
+    "en-US": [
+      {
+        "guid": "@unitedstatesenglishdictionary",
+        "locale": "en-US",
+        "name": "English United States Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/us-english-dictionary/"
+      }
+    ],
     "eo": [
       {
         "guid": "eo-EO@dictionaries.addons.mozilla.org",
@@ -740,7 +748,7 @@
     ]
   },
   "stats": {
-    "ignored": 38,
+    "ignored": 37,
     "multi": {
       "be": 2,
       "ca": 3,

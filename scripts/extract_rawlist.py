@@ -26,6 +26,8 @@ def getShippingLocales():
             print(e)
 
     shipping_locales = list(set(shipping_locales))
+    if 'en-US' not in shipping_locales:
+        shipping_locales.append('en-US')
     shipping_locales.sort()
 
     return shipping_locales
