@@ -101,7 +101,7 @@ def main():
     # Store the file
     script_folder = os.path.abspath(os.path.dirname(__file__))
     file_name = os.path.join(
-        script_folder, os.path.pardir, 'output', 'dictionaries_full.json')
+        script_folder, os.path.pardir, 'output', 'dictionaries_complete.json')
     with open(file_name, 'w') as outfile:
         json.dump(dictionaries, outfile, indent=2, sort_keys=True)
 

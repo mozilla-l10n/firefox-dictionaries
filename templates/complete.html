@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Complete List of Dictionaries</title>
+    <meta charSet="utf-8" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</head>
+<body>
+    <div class="container">
+        <h1>Complete List of Dictionaries</h1>
+        <p>Total number of dictionaries: %TOTAL%.</p>
+        <p>Number of dictionaries for non shipping locales: %IGNORED%.</p>
+        <p>List of locales with more than one dictionary: </p>
+        <ul>
+            %MULTI%
+        </ul>
+        <p>Useful Links:</p>
+        <ul>
+            <li><a href="index.html">Curated list of dictionaries</a></li>
+            <li><a href="https://addons.mozilla.org/firefox/language-tools/">language-tools</a> page on AMO</li>
+            <li><a href="https://bugzilla.mozilla.org/show_bug.cgi?id=1480874">Tracking bug</a></li>
+        </ul>
+        <table class="table table-striped table-bordered table-sm">
+            <thead class="thead-dark">
+                <tr>
+                    <th>Firefox Locale</th>
+                    <th>Dictionary Locale</th>
+                    <th>GUID</th>
+                    <th>Link</th>
+                </tr>
+            </thead>
+            <tbody>
+                %TABLEBODY%
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>
