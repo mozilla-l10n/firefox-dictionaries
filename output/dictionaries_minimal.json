@@ -1,0 +1,238 @@
+{
+  "af": [
+    "af-ZA@dictionaries.addons.mozilla.org"
+  ],
+  "an": [
+    "an-ES@dictionaries.addons.mozilla.org"
+  ],
+  "ar": [
+    "ar@dictionaries.addons.mozilla.org"
+  ],
+  "as": [
+    "as-IN@dictionaries.addons.mozilla.org"
+  ],
+  "ast": [
+    "asturianu@dictionaries.addons.mozilla.org"
+  ],
+  "az": [
+    "az-IR@dellalibera.sf.net"
+  ],
+  "be": [
+    "be@dictionaries.addons.mozilla.org"
+  ],
+  "bg": [
+    "bg-BG@dictionaries.addons.mozilla.org"
+  ],
+  "bn-BD": [
+    "bn-BD@dictionaries.addons.mozilla.org"
+  ],
+  "br": [
+    "br@dictionaries.addons.mozilla.org"
+  ],
+  "ca": [
+    "ca@dictionaries.addons.mozilla.org"
+  ],
+  "cs": [
+    "cs@dictionaries.addons.mozilla.org"
+  ],
+  "cy": [
+    "cy-GB-1@dictionaries.addons.mozilla.org"
+  ],
+  "da": [
+    "danish@dictionaries.addons.mozilla.org"
+  ],
+  "de": [
+    "de-CH@dictionaries.addons.mozilla.org",
+    "de-DE@dictionaries.addons.mozilla.org",
+    "de-AT@dictionaries.addons.mozilla.org"
+  ],
+  "dsb": [
+    "dsb@dictionaries.addons.mozilla.org"
+  ],
+  "el": [
+    "el-GR@dictionaries.addons.mozilla.org"
+  ],
+  "en-CA": [
+    "en-CA@dictionaries.addons.mozilla.org"
+  ],
+  "en-GB": [
+    "marcoagpinto@mail.telepac.pt"
+  ],
+  "en-US": [
+    "@unitedstatesenglishdictionary"
+  ],
+  "eo": [
+    "eo-EO@dictionaries.addons.mozilla.org"
+  ],
+  "es-AR": [
+    "es-AR@dictionaries.addons.mozilla.org"
+  ],
+  "es-CL": [
+    "es_cl@dictionaries.addons.mozilla.org"
+  ],
+  "es-ES": [
+    "es-es@dictionaries.addons.mozilla.org"
+  ],
+  "es-MX": [
+    "diccionario@mozilla-mexico.org"
+  ],
+  "et": [
+    "et-EE@dictionaries.addons.mozilla.org"
+  ],
+  "eu": [
+    "eu@dictionaries.addons.mozilla.org"
+  ],
+  "fa": [
+    "fa@dictionaries.addons.mozilla.org"
+  ],
+  "fr": [
+    "fr-dicollecte@dictionaries.addons.mozilla.org"
+  ],
+  "fy-NL": [
+    "fy@dictionaries.addons.mozilla.org"
+  ],
+  "ga-IE": [
+    "ga-IE@dictionaries.addons.mozilla.org"
+  ],
+  "gd": [
+    "gd-GB@dictionaries.addons.mozilla.org"
+  ],
+  "gl": [
+    "gl-es@dictionaries.addons.mozilla.org"
+  ],
+  "gu-IN": [
+    "gu-IN@dellalibera.sf.net"
+  ],
+  "he": [
+    "he@dictionaries.addons.mozilla.org"
+  ],
+  "hi-IN": [
+    "hi-IN@dellalibera.sf.net"
+  ],
+  "hr": [
+    "hr-HR-2@dictionaries.addons.mozilla.org"
+  ],
+  "hsb": [
+    "hsb@dictionaries.addons.mozilla.org"
+  ],
+  "hu": [
+    "hu@dictionaries.addons.mozilla.org"
+  ],
+  "hy-AM": [
+    "am@dictionaries.addons.mozilla.org"
+  ],
+  "ia": [
+    "ia-xx@dictionaries.addons.mozilla.org"
+  ],
+  "id": [
+    "id@ewesewes.net"
+  ],
+  "is": [
+    "is@dictionaries.addons.mozilla.org"
+  ],
+  "it": [
+    "it-IT@dictionaries.addons.mozilla.org"
+  ],
+  "ka": [
+    "ka-GE@dictionaries.addons.mozilla.org"
+  ],
+  "kn": [
+    "kn@dictionaries.addons.mozilla.org"
+  ],
+  "ko": [
+    "ko-KR@dictionaries.addons.mozilla.org"
+  ],
+  "lo": [
+    "lo@dictionaries.addons.mozilla.org"
+  ],
+  "lt": [
+    "lt@dictionaries.addons.mozilla.org"
+  ],
+  "lv": [
+    "lv-LV@dictionaries.addons.mozilla.org"
+  ],
+  "mk": [
+    "mk-MK@dictionaries.addons.mozilla.org"
+  ],
+  "mr": [
+    "mr-IN@dictionaries.addons.mozilla.org"
+  ],
+  "ms": [
+    "MyEja@xanda.org"
+  ],
+  "nb-NO": [
+    "nb-NO@dictionaries.addons.mozilla.org"
+  ],
+  "ne-NP": [
+    "ne-NP@dictionaries.addons.mozilla.org"
+  ],
+  "nl": [
+    "nl-NL@dictionaries.addons.mozilla.org"
+  ],
+  "nn-NO": [
+    "nn-NO@dictionaries.addons.mozilla.org"
+  ],
+  "or": [
+    "or_IN@dellalibera.sf.net"
+  ],
+  "pa-IN": [
+    "pa_IN@dellalibera.sf.net"
+  ],
+  "pl": [
+    "pl@dictionaries.addons.mozilla.org"
+  ],
+  "pt-BR": [
+    "pt-BR@dellalibera.sf.net"
+  ],
+  "pt-PT": [
+    "pt-PT@dictionaries.addons.mozilla.org"
+  ],
+  "ro": [
+    "ro-RO@www.archeus.ro"
+  ],
+  "ru": [
+    "ru@dictionaries.addons.mozilla.org"
+  ],
+  "sk": [
+    "sk@dictionaries.addons.mozilla.org"
+  ],
+  "sl": [
+    "sl@dictionaries.addons.mozilla.org"
+  ],
+  "son": [
+    "son-ML@dictionaries.addons.mozilla.org"
+  ],
+  "sq": [
+    "sq-AL@dictionaries.addons.mozilla.org"
+  ],
+  "sr": [
+    "sr-RS@dictionaries.addons.mozilla.org"
+  ],
+  "sv-SE": [
+    "swedish@dictionaries.addons.mozilla.org"
+  ],
+  "ta": [
+    "mugunth@thamizha.com"
+  ],
+  "te": [
+    "indlinux-telugu@lists.sourceforge.net"
+  ],
+  "tr": [
+    "tr-fix@dictionaries.addons.mozilla.org"
+  ],
+  "uk": [
+    "uk-ua@dictionaries.addons.mozilla.org"
+  ],
+  "ur": [
+    "ur@dictionaries.addons.mozilla.org"
+  ],
+  "uz": [
+    "uz@dellalibera.sf.net"
+  ],
+  "vi": [
+    "dictionary@vi.mozdev.org"
+  ],
+  "xh": [
+    "xh-ZA@dictionaries.addons.mozilla.org"
+  ]
+}
