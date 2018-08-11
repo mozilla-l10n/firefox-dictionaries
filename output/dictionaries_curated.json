@@ -41,10 +41,10 @@
   ],
   "az": [
     {
-      "guid": "az-IR@dellalibera.sf.net",
-      "locale": "az-IR",
-      "name": "Azerbaijani Spell Checker",
-      "url": "https://addons.mozilla.org/firefox/addon/azerbaijani-spell-checker/"
+      "guid": "az@dictionaries.addons.mozilla.org",
+      "locale": "az",
+      "name": "Azerbaijani Spellchecker",
+      "url": "https://addons.mozilla.org/firefox/addon/azerbaijani-spellchecker/"
     }
   ],
   "be": [

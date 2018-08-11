@@ -46,6 +46,12 @@
         "locale": "az-IR",
         "name": "Azerbaijani Spell Checker",
         "url": "https://addons.mozilla.org/firefox/addon/azerbaijani-spell-checker/"
+      },
+      {
+        "guid": "az@dictionaries.addons.mozilla.org",
+        "locale": "az",
+        "name": "Azerbaijani Spellchecker",
+        "url": "https://addons.mozilla.org/firefox/addon/azerbaijani-spellchecker/"
       }
     ],
     "be": [
@@ -750,6 +756,7 @@
   "stats": {
     "ignored": 37,
     "multi": {
+      "az": 2,
       "be": 2,
       "ca": 3,
       "cs": 2,
@@ -763,6 +770,6 @@
       "sr": 2,
       "ta": 2
     },
-    "total": 135
+    "total": 136
   }
 }
