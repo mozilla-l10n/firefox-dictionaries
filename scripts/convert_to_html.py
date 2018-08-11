@@ -32,7 +32,7 @@ def main():
         first_dictionary = True
         for dictionary in locale_data:
             if not first_dictionary:
-                tbl_content.append('''            <tr>''')
+                tbl_content.append('            <tr>')
 
             tbl_content.append('''                <td>{}</td>
                 <td>{}</td>
@@ -75,7 +75,7 @@ def main():
         first_dictionary = True
         for dictionary in locale_data:
             if not first_dictionary:
-                tbl_content.append('''            <tr>''')
+                tbl_content.append('            <tr>')
 
             tbl_content.append('''                <td>{}</td>
                 <td>{}</td>
