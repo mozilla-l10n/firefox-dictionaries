@@ -32,10 +32,9 @@ def main():
         first_dictionary = True
         for dictionary in locale_data:
             if not first_dictionary:
-                tbl_content.append('<tr>\n')
+                tbl_content.append('''            <tr>''')
 
-            tbl_content.append('''
-                <td>{}</td>
+            tbl_content.append('''                <td>{}</td>
                 <td>{}</td>
                 <td><a href="{}">{}</a></td>
             </tr>'''.format(
@@ -76,10 +75,9 @@ def main():
         first_dictionary = True
         for dictionary in locale_data:
             if not first_dictionary:
-                tbl_content.append('<tr>\n')
+                tbl_content.append('''            <tr>''')
 
-            tbl_content.append('''
-                <td>{}</td>
+            tbl_content.append('''                <td>{}</td>
                 <td>{}</td>
                 <td><a href="{}">{}</a></td>
             </tr>'''.format(
@@ -95,7 +93,7 @@ def main():
     locales.sort()
     for locale in locales:
         multi_content.append(
-            '<li>{}: {}</li>'.format(locale, multi_dictionaries[locale]))
+            '\t\t\t<li>{}: {}</li>'.format(locale, multi_dictionaries[locale]))
 
     # Write HTML output
     template = template.replace('%TOTAL%', str(full_data['stats']['total']))
