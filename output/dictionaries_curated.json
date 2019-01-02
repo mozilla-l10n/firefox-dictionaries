@@ -493,10 +493,10 @@
   ],
   "pt-BR": [
     {
-      "guid": "pt-BR@dellalibera.sf.net",
+      "guid": "pt-BR@dictionaries.addons.mozilla.org",
       "locale": "pt-BR",
-      "name": "Verificador Ortogr\u00e1fico para Portugu\u00eas do Brasil",
-      "url": "https://addons.mozilla.org/firefox/addon/verificador-ortogr%C3%A1fico-para-p/"
+      "name": "Brazilian Portuguese Dictionary (New Spelling)",
+      "url": "https://addons.mozilla.org/firefox/addon/corretor/"
     }
   ],
   "pt-PT": [

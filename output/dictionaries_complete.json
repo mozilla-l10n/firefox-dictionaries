@@ -66,6 +66,12 @@
         "locale": "be",
         "name": "Belarusian Classic Dictionary",
         "url": "https://addons.mozilla.org/firefox/addon/belarusian-classic-dictionary/"
+      },
+      {
+        "guid": "be_BY@dictionaries.addons.mozilla.org",
+        "locale": "be",
+        "name": "Belarusian Spellcheck Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/belarusian-spellcheck-webext/"
       }
     ],
     "bg": [
@@ -272,7 +278,7 @@
         "url": "https://addons.mozilla.org/firefox/addon/diccionario-espa%C3%B1ol-m%C3%A9xico/"
       },
       {
-        "guid": "diccionario@mozilla-mexico.org",
+        "guid": "@mxspanishdictionary",
         "locale": "es-MX",
         "name": "Spanish (Mexico) Dictionary",
         "url": "https://addons.mozilla.org/firefox/addon/spanish-mexico-dictionary/"
@@ -500,14 +506,6 @@
         "url": "https://addons.mozilla.org/firefox/addon/marathi-dictionary/"
       }
     ],
-    "ms": [
-      {
-        "guid": "MyEja@xanda.org",
-        "locale": "ms",
-        "name": "MyEja",
-        "url": "https://addons.mozilla.org/firefox/addon/myeja/"
-      }
-    ],
     "nb-NO": [
       {
         "guid": "nb-NO@dictionaries.addons.mozilla.org",
@@ -538,14 +536,6 @@
         "locale": "nn-NO",
         "name": "Norsk nynorsk ordliste",
         "url": "https://addons.mozilla.org/firefox/addon/norsk-nynorsk-ordliste/"
-      }
-    ],
-    "oc": [
-      {
-        "guid": "oc-FR@dictionaries.addons.mozilla.org",
-        "locale": "oc",
-        "name": "Correcteur Occitan-Languedocien",
-        "url": "https://addons.mozilla.org/firefox/addon/correcteur-occitan-languedocie/"
       }
     ],
     "or": [
@@ -606,14 +596,6 @@
         "url": "https://addons.mozilla.org/firefox/addon/european-portuguese-spellcheck/"
       }
     ],
-    "ro": [
-      {
-        "guid": "ro-RO@www.archeus.ro",
-        "locale": "ro",
-        "name": "Romanian spellchecking dictionary",
-        "url": "https://addons.mozilla.org/firefox/addon/romanian-spellchecking-diction/"
-      }
-    ],
     "ru": [
       {
         "guid": "ru@dictionaries.addons.mozilla.org",
@@ -626,6 +608,12 @@
         "locale": "ru",
         "name": "Russian Hunspell dictionary",
         "url": "https://addons.mozilla.org/firefox/addon/russian-hunspell-dictionary/"
+      },
+      {
+        "guid": "helvann-ru-dictionaries@thecommunity.ru",
+        "locale": "ru-EN",
+        "name": "Russian-English Dictionary",
+        "url": "https://addons.mozilla.org/firefox/addon/russian-english-dictionary/"
       }
     ],
     "sk": [
@@ -754,10 +742,10 @@
     ]
   },
   "stats": {
-    "ignored": 37,
+    "ignored": 35,
     "multi": {
       "az": 2,
-      "be": 2,
+      "be": 3,
       "ca": 3,
       "cs": 2,
       "de": 7,
@@ -766,10 +754,10 @@
       "fa": 2,
       "or": 2,
       "pt-BR": 3,
-      "ru": 2,
+      "ru": 3,
       "sr": 2,
       "ta": 2
     },
-    "total": 136
+    "total": 133
   }
 }
