@@ -8,22 +8,17 @@ import sys
 
 def getShippingLocales():
     # Get the list of locales shipping in Firefox
-    base = "https://hg.mozilla.org/mozilla-central/raw-file/default/{}"
-    locales_urls = [
-        base.format("browser/locales/all-locales"),
-        base.format("mobile/android/locales/all-locales"),
-    ]
 
     shipping_locales = []
-    for locales_url in locales_urls:
-        try:
-            with urlopen(locales_url) as response:
-                output = response.readlines()
-                for locale in output:
-                    locale = locale.rstrip().decode()
-                    shipping_locales.append(locale)
-        except Exception as e:
-            print(e)
+    try:
+        locales_url = "https://hg.mozilla.org/mozilla-central/raw-file/default/browser/locales/all-locales"
+        with urlopen(locales_url) as response:
+            output = response.readlines()
+            for locale in output:
+                locale = locale.rstrip().decode()
+                shipping_locales.append(locale)
+    except Exception as e:
+        print(e)
 
     shipping_locales = list(set(shipping_locales))
     if "en-US" not in shipping_locales:
@@ -84,8 +79,8 @@ def main():
             )
 
     # Store stats and output them
-    print("Total dictionaries: {}".format(len(json_data["results"])))
-    print("Ignored dictionaries: {}".format(len(ignored_dictionaries)))
+    print(f"Total dictionaries: {len(json_data['results'])}")
+    print(f"Ignored dictionaries: {len(ignored_dictionaries)}")
 
     multi_dictionaries = {}
     for locale, locale_data in dictionaries["list"].items():
@@ -97,7 +92,7 @@ def main():
         locales = list(multi_dictionaries.keys())
         locales.sort()
         for locale in locales:
-            print("  {}: {}".format(locale, multi_dictionaries[locale]))
+            print(f"  {locale}: {multi_dictionaries[locale]}")
 
     dictionaries["stats"] = {
         "total": len(json_data["results"]),
