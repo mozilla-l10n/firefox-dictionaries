@@ -2,6 +2,40 @@
 
 import os
 import json
+from bs4 import BeautifulSoup as bs
+
+
+def populateTable(data):
+    tbl_content = []
+    for locale_code, locale_data in data.items():
+        tbl_content.append(
+            f'<tr><th scope="row" rowspan="{len(locale_data)}">{locale_code}</th>'
+        )
+
+        first_dictionary = True
+        for dictionary in locale_data:
+            if not first_dictionary:
+                tbl_content.append("<tr>")
+
+            tbl_content.append(
+                f"""
+                <td>{dictionary["locale"]}</td>
+                <td>{dictionary["guid"]}</td>
+                <td><a href="{dictionary["url"]}">{dictionary["name"]}</a></td>
+            </tr>"""
+            )
+            first_dictionary = False
+
+    return tbl_content
+
+
+def writeHTML(content, file_name):
+    # Prettify HTML
+    soup = bs(content)
+    pretty_content = soup.prettify()
+
+    with open(file_name, "w") as outputfile:
+        outputfile.write(pretty_content)
 
 
 def main():
@@ -21,39 +55,12 @@ def main():
     with open(file_name) as inputfile:
         template = inputfile.read()
 
-    tbl_content = []
-    for locale_code, locale_data in curated_data.items():
-        tbl_content.append(
-            """
-            <tr>
-                <th scope="row" rowspan="{}">{}</th>""".format(
-                len(locale_data), locale_code
-            )
-        )
-
-        first_dictionary = True
-        for dictionary in locale_data:
-            if not first_dictionary:
-                tbl_content.append("            <tr>")
-
-            tbl_content.append(
-                """                <td>{}</td>
-                <td>{}</td>
-                <td><a href="{}">{}</a></td>
-            </tr>""".format(
-                    dictionary["locale"],
-                    dictionary["guid"],
-                    dictionary["url"],
-                    dictionary["name"],
-                )
-            )
-            first_dictionary = False
+    tbl_content = populateTable(curated_data)
 
     # Write HTML output
     template = template.replace("%TABLEBODY%", "\n".join(tbl_content))
     file_name = os.path.join(script_folder, os.path.pardir, "docs", "index.html")
-    with open(file_name, "w") as outputfile:
-        outputfile.write(template)
+    writeHTML(template, file_name)
 
     # Complete list
     # Read JSON data
@@ -70,42 +77,14 @@ def main():
     with open(file_name) as inputfile:
         template = inputfile.read()
 
-    tbl_content = []
-    for locale_code, locale_data in full_data["list"].items():
-        tbl_content.append(
-            """
-            <tr>
-                <th scope="row" rowspan="{}">{}</th>""".format(
-                len(locale_data), locale_code
-            )
-        )
-
-        first_dictionary = True
-        for dictionary in locale_data:
-            if not first_dictionary:
-                tbl_content.append("            <tr>")
-
-            tbl_content.append(
-                """                <td>{}</td>
-                <td>{}</td>
-                <td><a href="{}">{}</a></td>
-            </tr>""".format(
-                    dictionary["locale"],
-                    dictionary["guid"],
-                    dictionary["url"],
-                    dictionary["name"],
-                )
-            )
-            first_dictionary = False
+    tbl_content = populateTable(full_data["list"])
 
     multi_content = []
     multi_dictionaries = full_data["stats"]["multi"]
     locales = list(multi_dictionaries.keys())
     locales.sort()
     for locale in locales:
-        multi_content.append(
-            "\t\t\t<li>{}: {}</li>".format(locale, multi_dictionaries[locale])
-        )
+        multi_content.append(f"<li>{locale}: {multi_dictionaries[locale]}</li>")
 
     # Write HTML output
     template = template.replace("%TOTAL%", str(full_data["stats"]["total"]))
@@ -113,8 +92,7 @@ def main():
     template = template.replace("%MULTI%", "\n".join(multi_content))
     template = template.replace("%TABLEBODY%", "\n".join(tbl_content))
     file_name = os.path.join(script_folder, os.path.pardir, "docs", "complete.html")
-    with open(file_name, "w") as outputfile:
-        outputfile.write(template)
+    writeHTML(template, file_name)
 
 
 if __name__ == "__main__":
