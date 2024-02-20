@@ -31,7 +31,7 @@ def populateTable(data):
 
 def writeHTML(content, file_name):
     # Prettify HTML
-    soup = bs(content)
+    soup = bs(content, features="html.parser")
     pretty_content = soup.prettify()
 
     with open(file_name, "w") as outputfile:
