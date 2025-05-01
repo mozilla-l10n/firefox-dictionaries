@@ -11,7 +11,7 @@ def getShippingLocales():
 
     shipping_locales = []
     try:
-        locales_url = "https://hg.mozilla.org/mozilla-central/raw-file/default/browser/locales/all-locales"
+        locales_url = "https://raw.githubusercontent.com/mozilla-firefox/firefox/refs/heads/main/browser/locales/all-locales"
         with urlopen(locales_url) as response:
             output = response.readlines()
             for locale in output:
